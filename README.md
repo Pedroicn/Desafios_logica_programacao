@@ -21,7 +21,6 @@ Atenção, nos exercícios, não troque os nomes das funções ou as retire do m
 
 Confira abaixo os links para estudo:
 ## Gerais
-* [Blog Trybe](https://blog.betrybe.com/javascript/)
 * [Laços e iterações MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
 ### Operadores
