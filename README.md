@@ -4,8 +4,6 @@ Steve Jobs – Inventor
 
 Lógica de Programação é a forma como nós, Pessoas Desenvolvedoras, pensamos e escrevemos algoritmos para resoluções de problemas ou execuções de tarefas processadas por uma máquina.
 
-Nesse [artigo](https://blog.betrybe.com/tecnologia/logica-de-programacao/) de nosso blog, você poderá ler mais acerca da importância da Lógica de Programação e como aprendê-la.
-
 # Desafios
 Este repositório tem por finalidade apresentar alguns exercícios de Lógica de Programação e materiais de estudo complementares sobre os temas que são abordados.
 
